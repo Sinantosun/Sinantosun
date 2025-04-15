@@ -2,9 +2,20 @@
  Hi there I'm Sinan 👋
 </h1>
 <h6 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Junior+.Net+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Junior+.Net+Developer" />
 </h6>
+<h6 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFC2&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Sinan;Junior+.NET+Developer+%7C+AI+Enthusiast;Always+building%2C+always+learning..." />
 
+</h6>
+<h6 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Sinan;Junior+.NET+Developer+%7C+AI+Enthusiast;Always+building%2C+always+learning..." />
+
+</h6>
+<h6 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Sinan;Junior+.NET+Developer+%7C+AI+Enthusiast;Always+building%2C+always+learning..." />
+
+</h6>
 ---
 
 ### 👨‍💻 About Me
