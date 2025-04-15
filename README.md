@@ -1,4 +1,10 @@
 <h1 align="center">Merhaba, ben Sinan 👋</h1>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Sinan+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h3 align="center">Yazılıma tutkuyla bağlı bir .NET geliştiricisiyim</h3>
 
 ---
