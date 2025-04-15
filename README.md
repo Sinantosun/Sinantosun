@@ -83,12 +83,11 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sinantosun&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=username&theme=radical" alt="wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sinantosun&theme=radical" alt="wakatime stats" />
 </p>
 
 
