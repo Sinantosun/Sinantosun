@@ -9,18 +9,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a Junior .NET Developer passionate about building smart, scalable, and real-time web apps using **ASP.NET Core**, **Angular**, and modern backend technologies.  
-I've completed 17+ projects focused on:
+I'm a Junior .NET Developer with a passion for building smart, scalable, and efficient web applications. My journey in the software development world has been driven by a desire to solve real-world problems and create meaningful solutions that have a positive impact.
 
-- Microservice architecture with Docker  
-- Authentication with JWT  
-- Real-time notifications using SignalR  
-- PostgreSQL, MSSQL, and Dapper  
-- Design patterns like Chain of Responsibility & Unit of Work  
-- File systems like Google Drive  
-- RESTful API development  
+I specialize in ASP.NET Core and Angular, focusing on building real-time and high-performance web apps. My work is centered around modern backend technologies like microservices and containerization with Docker, ensuring that applications are both scalable and maintainable.
 
-I enjoy integrating AI into real-world use cases and aim to build projects that solve real problems efficiently.
+I’ve worked on various projects that challenge me to keep learning and growing as a developer. Every line of code I write is driven by the goal of making the web a better place—by building applications that are efficient, user-friendly, and future-proof.
 
 ---
 
