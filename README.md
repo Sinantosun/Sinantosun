@@ -1,98 +1,99 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Sinan+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
-
-### 👨‍💻 Hakkımda
-
-Ben Sinan, yazılım dünyasında kendini sürekli geliştirmeyi hedefleyen bir .NET geliştiricisiyim.  
-Şu anda ASP.NET Core 8.0 ile çeşitli web projeleri geliştiriyorum ve mikroservis mimarisi, Docker, Kafka, Identity Server gibi teknolojilerle projelerimi daha sağlam bir yapıya kavuşturuyorum.
+<h1 align="center">Merhaba 👋 Ben Sinan</h1>
+<h3 align="center">.NET dünyasında yol alan Junior Developer</h3>
 
 ---
 
-### 🚀 Hedefim
+### 🇹🇷 Hakkımda
 
-Kendimi kurumsal seviyede güçlü yazılımlar geliştirebilecek bir yazılım geliştiricisi olarak konumlandırmak ve yazılım dünyasında iz bırakmak.  
-Aynı zamanda yazılım mimarisi ve clean code prensipleri üzerine uzmanlaşmak istiyorum.
+Ben Sinan. Yazılım yolculuğuma tutkuyla bağlıyım ve her geçen gün kendimi geliştirmeye çalışıyorum. Özellikle **ASP.NET Core** ve **Angular** teknolojileriyle projeler geliştiriyorum.  
+Son 1 yıl içerisinde 17’den fazla proje geliştirdim ve bu projelerde:
 
----
+- Mikro servis mimarileri
+- JWT Authentication
+- SignalR ile gerçek zamanlı bildirim sistemleri
+- Docker ile izole servis yönetimi
+- PostgreSQL, MSSQL veritabanı kullanımı
+- Dapper ile hızlı veri erişimi
+- Chain of Responsibility, Unit of Work gibi tasarım desenlerini
+- Web API geliştirme
+- Google Drive benzeri dosya sistemleri
+- Kafka ile Event-Driven yapılar
+- Yapay Zeka destekli çözümler
 
-### 🛠️ Kullandığım Teknolojiler
+... gibi konularda yoğunlaştım.
 
-- 💻 **Backend**: `ASP.NET Core 8.0`, `C#`, `Entity Framework`, `LINQ`, `CQRS`, `MediatR`, `Repository Pattern`, `Onion Architecture`
-- 🗃️ **Database**: `MSSQL`, `PostgreSQL`, `MongoDB`
-- 🌐 **Web**: `Razor`, `AJAX`, `SignalR`, `RESTful API`
-- 🔐 **Authentication**: `Identity`, `IdentityServer`, `JWT`
-- 🧰 **Dev Tools**: `Docker`, `Git`, `Kafka`, `Swagger`, `Postman`
-- ☁️ **Cloud & Storage**: `Google Cloud Storage`
-- 🎨 **Frontend Basics**: `HTML`, `CSS`, `JavaScript`
+Ayrıca hem .NET hem de frontend tarafında **Angular 18** ile standalone component mimarilerini aktif olarak kullanıyorum.  
+Yapay zekayı projelere entegre etme konusunda özel bir ilgim var ve her geçen gün bu alanda bir şeyler öğrenmeye çalışıyorum.
 
----
-
-### 📈 Öğrendiklerimle Geliştirdiğim Projeler
-
-- E-Payroll uygulaması
-- Blog platformu
-- Sosyal medya uygulaması
-- Restoran ve kafe yönetim sistemleri
-- Mikroservis tabanlı katalog ve görsel yönetim sistemi
+> Amacım sadece kod yazmak değil, **performanslı, sürdürülebilir ve kullanıcı odaklı sistemler** geliştirmek.
 
 ---
 
-### 💬 Benimle İletişime Geç
+### 🇬🇧 About Me
 
-📧 `sinantosun@example.com`  
-🔗 [LinkedIn](https://www.linkedin.com/in/sinantosun)  
-📂 [GitHub Repos](https://github.com/Sinantosun?tab=repositories)
+Hi, I'm Sinan. I'm a junior developer with a passion for building powerful and scalable applications using **ASP.NET Core** and **Angular**.  
+I've completed more than 17 projects in the last few months, exploring:
 
----
+- Microservice Architecture  
+- JWT Authentication  
+- Real-time systems with SignalR  
+- Docker containerization  
+- PostgreSQL & MSSQL  
+- Data access with Dapper  
+- Design Patterns: Chain of Responsibility, Unit of Work  
+- RESTful Web APIs  
+- File system similar to Google Drive  
+- Kafka-based messaging systems  
+- AI-enhanced features  
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&pause=1000&color=F78C6B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sinan+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+I’m currently focusing on integrating **AI** into real-world applications using .NET Core and Angular.
 
-### 👨‍💻 About Me
-
-I'm Sinan, a passionate .NET developer constantly improving myself in the field of software development.  
-I'm currently working with ASP.NET Core 8.0, building web-based applications and diving deep into Microservices Architecture, Docker, Kafka, and IdentityServer.
-
----
-
-### 🚀 My Goal
-
-To become a software developer capable of building enterprise-level scalable and clean architecture-based systems.  
-I'm also focusing on mastering software architecture and clean code principles.
+> My goal is not just to code, but to **craft clean, high-performing, and user-centric solutions**.
 
 ---
 
-### 🛠️ Technologies I Use
+### 🚀 Kullandığım Teknolojiler | Tech Stack
 
-- 💻 **Backend**: `ASP.NET Core 8.0`, `C#`, `Entity Framework`, `LINQ`, `CQRS`, `MediatR`, `Repository Pattern`, `Onion Architecture`
-- 🗃️ **Database**: `MSSQL`, `PostgreSQL`, `MongoDB`
-- 🌐 **Web**: `Razor`, `AJAX`, `SignalR`, `RESTful API`
-- 🔐 **Authentication**: `Identity`, `IdentityServer`, `JWT`
-- 🧰 **Dev Tools**: `Docker`, `Git`, `Kafka`, `Swagger`, `Postman`
-- ☁️ **Cloud & Storage**: `Google Cloud Storage`
-- 🎨 **Frontend Basics**: `HTML`, `CSS`, `JavaScript`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,typescript,javascript,html,css,postgresql,mysql,mssql,docker,kafka,github,vscode" />
+</p>
 
 ---
 
-### 📈 Projects I’ve Worked On
+### 📊 GitHub İstatistiklerim | GitHub Stats
 
-- E-payroll application  
-- Blog platform  
-- Social media application  
-- Restaurant and cafe management systems  
-- Microservices-based catalog and image management system  
-
----
-
-### 💬 Contact Me
-
-📧 `sinantosun@example.com`  
-🔗 [LinkedIn](https://www.linkedin.com/in/sinantosun)  
-📂 [GitHub Repos](https://github.com/Sinantosun?tab=repositories)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinanGithubUsername&show_icons=true&theme=github_dark&locale=tr" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanGithubUsername&theme=github-dark" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanGithubUsername&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
-İstersen bu içeriği tek parça bir `README.md` dosyası olarak sana verebilirim. Ayrıca e-posta veya LinkedIn linkin varsa onları da doğrudan ekleyebilirim.  
-Hazır mısın eklemem için? 🤓
+### 📌 Güncel Odak Noktalarım
+
+- [ ] Angular 18 ile component mimarisi
+- [ ] AI destekli çözümler (.NET + ML)
+- [ ] Event-driven sistemlerde Kafka
+- [ ] Clean Architecture & Microservice Design
+- [ ] İngilizcemi her gün Duolingo ile geliştiriyorum 🇬🇧
+
+---
+
+### 🌐 Bağlantılar | Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seninlinkedinadresin)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinanGithubUsername)
+
+---
+
+### 🎯 Hedefim
+
+Kısa vadede AI + .NET + Angular üçlüsüyle çalışan projeler geliştirmek, uzun vadede ise yazılım dünyasında kendi izimi bırakabileceğim bir kariyer inşa etmek.
+
+---
+
+> **"Kod yazmak, geleceği şekillendirmektir."**  
+> — Sinan
