@@ -17,8 +17,6 @@ I've completed 17+ projects focused on:
 - Real-time notifications using SignalR  
 - PostgreSQL, MSSQL, and Dapper  
 - Design patterns like Chain of Responsibility & Unit of Work  
-- Event-driven systems with Kafka  
-- AI-powered features  
 - File systems like Google Drive  
 - RESTful API development  
 
