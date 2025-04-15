@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there+I'm+Sinan+%F0%9F%91%8B" />
+ Hi there I'm Sinan 👋
 </h1>
+<h6 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Junior+.Net+Developer" />
+</h6>
 
 ---
 
