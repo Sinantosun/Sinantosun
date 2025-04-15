@@ -30,7 +30,7 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 
 <!-- Renkli Badge Butonlar (üst sıra) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" / title="c#">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
