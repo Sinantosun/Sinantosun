@@ -71,22 +71,6 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
  <img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-
-
-
----
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Sinantosun&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="github stats" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinanGithubUsername&show_icons=true&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanGithubUsername&theme=github-dark" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanGithubUsername&layout=compact&theme=github_dark" />
-</p>
-
 ---
 
 ### 🚀 Current Focus
@@ -99,4 +83,12 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 
 ---
 
-> “Code is my language. Passion is my fuel.” – Sinan
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical" alt="github top languages" />
+</p>
+
+
