@@ -77,6 +77,8 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 ---
 
 ### 📊 GitHub Stats
+<img src="https://komarev.com/ghpvc/?username=Sinantosun&style=flat-square&color=blue" alt="profile views" />
+<img src="https://github-readme-stats.vercel.app/api?username=SinantosunZ&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="github stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinanGithubUsername&show_icons=true&theme=github_dark" />
