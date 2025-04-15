@@ -3,6 +3,7 @@
 </h1>
 <h6 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=700&color=FF6EC7&center=true&vCenter=true&width=435&lines=Junior+.Net+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=700&color=FF6EC7&center=true&vCenter=true&width=435&lines=|" />
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1500&color=FF6EC7&center=true&vCenter=true&width=435&lines=Software+Developer" />
 </h6>
 
