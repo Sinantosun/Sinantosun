@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi there I'm Sinan 👋
+ Hi there, I'm Sinan 👋
 </h1>
 <h6 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=Junior+.Net+Developer" />
@@ -29,7 +29,7 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,docker,kafka,postgresql,mssql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,docker,kafka,postgresql,mssql,github,vscode,redis,ajax,vs,postman,swagger" />
 </p>
 
 ---
