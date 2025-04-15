@@ -87,8 +87,8 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical" alt="github top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinantosun&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinantosun&layout=compact&theme=radical" alt="github top languages" />
 </p>
 
 
