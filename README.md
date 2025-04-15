@@ -76,7 +76,6 @@ I’ve worked on various projects that challenge me to keep learning and growing
 - AI + .NET integration  
 - Kafka for event-driven design  
 - Clean Architecture  
-- Improving English daily with Duolingo 🇬🇧
 
 ---
 
