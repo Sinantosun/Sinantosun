@@ -28,30 +28,10 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 
 ### 🧰 Tech Stack
 
-#### 🖥️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,kafka,signalr" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,angular,bootstrap,jquery,nodejs,jwt,azure,gcp,github,git,postgres,mongodb,mssql,redis,rabbitmq,docker,postman,swagger,vscode,visualstudio,canva" />
 </p>
 
-#### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
-</p>
-
-#### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mssql" />
-</p>
-
-#### 🐳 DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
-
-#### ⚙️ Extras & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
 
 ---
 
