@@ -1,97 +1,100 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Sinan+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Merhaba%2C+ben+Sinan+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
+### 👨‍💻 Hakkımda
 
-<h3 align="center">Yazılıma tutkuyla bağlı bir .NET geliştiricisiyim</h3>
-
----
-
-🌱 Şu anda öğreniyorum: **Mikroservis Mimarisi, Kafka, Docker, Kubernetes**
-
-💬 Bana soru sorabilirsin: **ASP.NET Core, CQRS, SignalR, Identity Server**
-
-👨‍💻 Tüm projelerimi buradan görebilirsin: [github.com/Sinantosun](https://github.com/Sinantosun)
-
-📫 Bana ulaş: **sinantosun.dev@proton.me**
-
-📄 Özgeçmişim: [CV için tıkla](https://your-cv-link.com)
-
-⚡ Fun Fact: Kodu kahveyle yazarım ☕ + 🎧 = 💻
+Ben Sinan, yazılım dünyasında kendini sürekli geliştirmeyi hedefleyen bir .NET geliştiricisiyim.  
+Şu anda ASP.NET Core 8.0 ile çeşitli web projeleri geliştiriyorum ve mikroservis mimarisi, Docker, Kafka, Identity Server gibi teknolojilerle projelerimi daha sağlam bir yapıya kavuşturuyorum.
 
 ---
 
-### 🧰 Kullandığım Teknolojiler:
+### 🚀 Hedefim
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Kendimi kurumsal seviyede güçlü yazılımlar geliştirebilecek bir yazılım geliştiricisi olarak konumlandırmak ve yazılım dünyasında iz bırakmak.  
+Aynı zamanda yazılım mimarisi ve clean code prensipleri üzerine uzmanlaşmak istiyorum.
 
 ---
 
-### 📊 GitHub İstatistikleri:
+### 🛠️ Kullandığım Teknolojiler
 
-![Sinan Tosun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinantosun&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinantosun&layout=compact&theme=tokyonight)
-
----
-
-### 🔗 Beni Takip Et:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senin-linkin)
-[![Personal Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=github&logoColor=white)](https://sinantosun.dev)
+- 💻 **Backend**: `ASP.NET Core 8.0`, `C#`, `Entity Framework`, `LINQ`, `CQRS`, `MediatR`, `Repository Pattern`, `Onion Architecture`
+- 🗃️ **Database**: `MSSQL`, `PostgreSQL`, `MongoDB`
+- 🌐 **Web**: `Razor`, `AJAX`, `SignalR`, `RESTful API`
+- 🔐 **Authentication**: `Identity`, `IdentityServer`, `JWT`
+- 🧰 **Dev Tools**: `Docker`, `Git`, `Kafka`, `Swagger`, `Postman`
+- ☁️ **Cloud & Storage**: `Google Cloud Storage`
+- 🎨 **Frontend Basics**: `HTML`, `CSS`, `JavaScript`
 
 ---
 
-<h2 align="center">🧡 Yazılımla üretmeye devam!</h2>
+### 📈 Öğrendiklerimle Geliştirdiğim Projeler
+
+- E-Payroll uygulaması
+- Blog platformu
+- Sosyal medya uygulaması
+- Restoran ve kafe yönetim sistemleri
+- Mikroservis tabanlı katalog ve görsel yönetim sistemi
+
+---
+
+### 💬 Benimle İletişime Geç
+
+📧 `sinantosun@example.com`  
+🔗 [LinkedIn](https://www.linkedin.com/in/sinantosun)  
+📂 [GitHub Repos](https://github.com/Sinantosun?tab=repositories)
 
 ---
 
 ## 🇬🇧 English Version
 
-<h1 align="center">Hi, I'm Sinan 👋</h1>
-<h3 align="center">A passionate .NET Developer from Turkey</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&pause=1000&color=F78C6B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sinan+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
+### 👨‍💻 About Me
+
+I'm Sinan, a passionate .NET developer constantly improving myself in the field of software development.  
+I'm currently working with ASP.NET Core 8.0, building web-based applications and diving deep into Microservices Architecture, Docker, Kafka, and IdentityServer.
 
 ---
 
-🌱 Currently learning: **Microservices, Kafka, Docker, Kubernetes**
+### 🚀 My Goal
 
-💬 Ask me about: **ASP.NET Core, CQRS, SignalR, Identity Server**
-
-👨‍💻 All of my projects are available at: [github.com/Sinantosun](https://github.com/Sinantosun)
-
-📫 How to reach me: **sinantosun.dev@proton.me**
-
-📄 Resume: [Click here to view CV](https://your-cv-link.com)
-
-⚡ Fun Fact: My code runs on coffee ☕ + 🎧 = 💻
+To become a software developer capable of building enterprise-level scalable and clean architecture-based systems.  
+I'm also focusing on mastering software architecture and clean code principles.
 
 ---
 
-### 🧰 Technologies & Tools I Use:
+### 🛠️ Technologies I Use
 
-(Same badges as above)
-
----
-
-### 📊 GitHub Stats:
-
-(Same stats section as above)
-
----
-
-### 🔗 Follow Me:
-
-(Same buttons as above)
+- 💻 **Backend**: `ASP.NET Core 8.0`, `C#`, `Entity Framework`, `LINQ`, `CQRS`, `MediatR`, `Repository Pattern`, `Onion Architecture`
+- 🗃️ **Database**: `MSSQL`, `PostgreSQL`, `MongoDB`
+- 🌐 **Web**: `Razor`, `AJAX`, `SignalR`, `RESTful API`
+- 🔐 **Authentication**: `Identity`, `IdentityServer`, `JWT`
+- 🧰 **Dev Tools**: `Docker`, `Git`, `Kafka`, `Swagger`, `Postman`
+- ☁️ **Cloud & Storage**: `Google Cloud Storage`
+- 🎨 **Frontend Basics**: `HTML`, `CSS`, `JavaScript`
 
 ---
 
-<h2 align="center">💻 Keep building with code and coffee!</h2>
+### 📈 Projects I’ve Worked On
+
+- E-payroll application  
+- Blog platform  
+- Social media application  
+- Restaurant and cafe management systems  
+- Microservices-based catalog and image management system  
+
+---
+
+### 💬 Contact Me
+
+📧 `sinantosun@example.com`  
+🔗 [LinkedIn](https://www.linkedin.com/in/sinantosun)  
+📂 [GitHub Repos](https://github.com/Sinantosun?tab=repositories)
+
+---
+
+İstersen bu içeriği tek parça bir `README.md` dosyası olarak sana verebilirim. Ayrıca e-posta veya LinkedIn linkin varsa onları da doğrudan ekleyebilirim.  
+Hazır mısın eklemem için? 🤓
