@@ -24,6 +24,11 @@ I enjoy integrating AI into real-world use cases and aim to build projects that 
 
 ---
 
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinan-tosun1)
+
+---
+
 ### 🧰 Tech Stack
 
 <p align="center">
