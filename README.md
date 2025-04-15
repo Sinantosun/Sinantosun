@@ -63,11 +63,11 @@ I’m currently focusing on integrating **AI** into real-world applications usin
 ### 📊 GitHub İstatistiklerim | GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinantosunGithubUsername&show_icons=true&theme=github_dark&locale=tr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinantosun&show_icons=true&theme=github_dark&locale=tr" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinantosunGithubUsername&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Sinantosun&theme=github-dark" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinantosunGithubUsername&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinantosun&layout=compact&theme=github_dark" />
 </p>
 
 ---
